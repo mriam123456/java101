@@ -1,14 +1,14 @@
 # java101
 Exercices pour classe de Licence Pro Informatique : Programmation Android / iOS
 
-#CheckOddEven
+###CheckOddEven
 Exercice basique , échauffement , bases de la programmation fonctionnelle
 
-#SommeSurTableau
+###SommeSurTableau
 Traverse de tableau , scoping de variable
 
-#TrouverNombreCommun
+###TrouverNombreCommun
 Double traverse + opération , Contrôle de flow en boucle imbriquées , List<>
 
-#MaitriseStrings
+###MaitriseStrings
 Regex , split , substring , List<> , organisation fonctionnelle intra-Objet basique 
